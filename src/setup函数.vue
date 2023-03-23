@@ -14,6 +14,8 @@ export default {
     const num = 2;
     const fn = () => {
       console.log("hello,V3");
+      // dasdada
+      // /asd/a/sd
     };
     return { num, fn };
   },
